@@ -5,7 +5,7 @@ This repository contains a set of scripts for sensitive and effective identifica
 The whole pathway consist of a few steps:
 - the first filtering (by lncRNA basic characteristics)
 - the second filtering (classification by coding potential)
-- accuracy validation
+- accuracy validation model
 - the final classification
 - plotting
 
